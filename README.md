@@ -20,9 +20,11 @@ The project is built using HTML, JavaScript, and SASS. It uses the Fetch API to 
 - Interactive dice icon for generating new advice
 
 ### Technologies Used:
--HTML5
--SASS
--Javascript
+- HTML5
+
+- SASS
+
+- Javascript
 
 
 ## Credit
